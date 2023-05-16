@@ -22,17 +22,17 @@ http://39.130.206.213:6410/gitv_live/G_CCTV-9-HD/G_CCTV-9-HD.m3u8
 #EXTINF:-1 tvg-id="11" tvg-name="CCTV10" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV10.png" group-title="CCTV-HD",CCTV-10 HD
 http://39.130.206.213:6410/gitv_live/G_CCTV-10-HD/G_CCTV-10-HD.m3u8
 #EXTINF:-1 tvg-id="12" tvg-name="CCTV11" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV11.png" group-title="CCTV-HD",CCTV-11 HD
-http://39.130.206.213:6410/gitv_live/G_CGTVXQ-HD/G_CGTVXQ-HD.m3u8
+http://39.130.206.213:6410/gitv_live/CCTV-11/CCTV-11.m3u8
 #EXTINF:-1 tvg-id="13" tvg-name="CCTV12" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV12.png" group-title="CCTV-HD",CCTV-12 HD
 http://39.130.206.213:6410/gitv_live/G_CCTV-12-HD/G_CCTV-12-HD.m3u8
 #EXTINF:-1 tvg-id="14" tvg-name="CCTV13" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV13.png" group-title="CCTV-HD",CCTV-13 HD
-http://39.130.206.213:6410/gitv_live/G_CCTV-13-HD/G_CCTV-13-HD.m3u8
+http://39.130.206.213:6410/gitv_live/CCTV-13/CCTV-13.m3u8
 #EXTINF:-1 tvg-id="15" tvg-name="CCTV14" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV14.png" group-title="CCTV-HD",CCTV-14 HD
 http://39.130.206.213:6410/gitv_live/G_CCTV-14-HD/G_CCTV-14-HD.m3u8
 #EXTINF:-1 tvg-id="16" tvg-name="CCTV15" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV15.png" group-title="CCTV-HD",CCTV-15 HD
-http://39.130.206.213:6410/gitv_live/G_CCTV-15-HD/G_CCTV-15-HD.m3u8
+http://39.130.206.213:6410/gitv_live/CCTV-15/CCTV-15.m3u8
 #EXTINF:-1 tvg-id="17" tvg-name="CCTV16" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV16.png" group-title="CCTV-HD",CCTV-16 HD
-http://39.130.206.213:6410/gitv_live/G_CCTV-16-HD/G_CCTV-16-HD.m3u8
+http://39.130.206.213:6410/gitv_live/CCTV-16/CCTV-16.m3u8
 #EXTINF:-1 tvg-id="18" tvg-name="CCTV17" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV17.png" group-title="CCTV-HD",CCTV-17 HD
 http://39.130.206.213:6410/gitv_live/G_CCTV-17-HD/G_CCTV-17-HD.m3u8
 #EXTINF:-1 tvg-id="19" tvg-name="CCTV7" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV7.png" group-title="CCTV-HD",CCTV-国防军事 HD
@@ -60,7 +60,7 @@ http://39.130.206.213:6410/gitv_live/G_LIAONING-HD/G_LIAONING-HD.m3u8
 #EXTINF:-1 tvg-id="30" tvg-name="深圳卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shenzhen.png" group-title="LocalTVHD",深圳卫视 HD
 http://39.130.206.213:6410/gitv_live/SZWS-HD/SZWS-HD.m3u8
 #EXTINF:-1 tvg-id="31" tvg-name="广东卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/guangdong.png" group-title="LocalTVHD",广东卫视 HD
-http://39.130.206.213:6410/gitv_live/G_GUANGDONG-HD/G_GUANGDONG-HD.m3u8
+http://39.130.206.213:6410/gitv_live/GDWS-HD/GDWS-HD.m3u8
 #EXTINF:-1 tvg-id="32" tvg-name="天津卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/tianjin.png" group-title="LocalTVHD",天津卫视 HD
 http://39.130.206.213:6410/gitv_live/G_TIANJIN-HD/G_TIANJIN-HD.m3u8
 #EXTINF:-1 tvg-id="33" tvg-name="湖北卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hubei.png" group-title="LocalTVHD",湖北卫视 HD
