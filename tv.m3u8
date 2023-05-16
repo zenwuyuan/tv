@@ -7,7 +7,7 @@ http://39.130.206.213:6410/gitv_live/G_CCTV-2-HD/G_CCTV-2-HD.m3u8
 http://39.130.206.213:6410/gitv_live/CCTV-3/CCTV-3.m3u8
 #EXTINF:-1 tvg-id="4" tvg-name="CCTV4" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4.png" group-title="CCTV-HD",CCTV-4 HD
 http://39.130.206.213:6410/gitv_live/G_CCTV-4-HD/G_CCTV-4-HD.m3u8
-#EXTINF:-1 tvg-id="5" tvg-name="cctv5" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5.png" group-title="CCTV-HD",CCTV-5 HD
+#EXTINF:-1 tvg-id="5" tvg-name="CCTV5" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5.png" group-title="CCTV-HD",CCTV-5 HD
 http://39.130.206.213:6410/gitv_live/CCTV-5/CCTV-5.m3u8
 #EXTINF:-1 tvg-id="6" tvg-name="CCTV5+" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5+.png" group-title="CCTV-HD",CCTV-5+ HD
 http://39.130.206.213:6410/gitv_live/G_CCTV-5PLUS/G_CCTV-5PLUS.m3u8
@@ -77,7 +77,7 @@ http://39.130.206.213:6410/gitv_live/G_DONGNAN-HD/G_DONGNAN-HD.m3u8
 http://39.130.206.213:6410/gitv_live/LYWS/LYWS.m3u8
 #EXTINF:-1 tvg-id="41" tvg-name="上海纪实" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shanghaijishi.png" group-title="LocalTVHD",上海纪实 HD
 http://39.130.206.213:6410/gitv_live/G_SHANGHAIJS-HD/G_SHANGHAIJS-HD.m3u8
-#EXTINF:-1 tvg-id="42" tvg-name="湖南金鹰" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jinying.png" group-title="LocalTVHD",湖南金鹰 HD
+#EXTINF:-1 tvg-id="42" tvg-name="金鹰纪实" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jinying.png" group-title="LocalTVHD",金鹰纪实 HD
 http://39.130.206.213:6410/gitv_live/G_JINYINGJS-HD/G_JINYINGJS-HD.m3u8
 #EXTINF:-1 tvg-id="43" tvg-name="吉林卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jilin.png" group-title="LocalTVHD",吉林卫视 HD
 http://39.130.206.213:6410/gitv_live/G_JILIN-HQ/G_JILIN-HQ.m3u8
