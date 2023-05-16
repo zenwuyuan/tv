@@ -1,81 +1,93 @@
 #EXTM3U
-#EXTINF:-1 ,Unknown_1
+#EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" group-title="CCTV-HD",CCTV-1 HD
 http://39.130.206.213:6410/gitv_live/CCTV-1-HD/CCTV-1-HD.m3u8
-#EXTINF:-1 ,Unknown_2
-http://39.130.206.213:6410/gitv_live/G_CCTV-1-CQ/G_CCTV-1-CQ.m3u8
-#EXTINF:-1 ,Unknown_3
+#EXTINF:-1 tvg-id="2" tvg-name="CCTV2" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV2.png" group-title="CCTV-HD",CCTV-2 HD
 http://39.130.206.213:6410/gitv_live/G_CCTV-2-HD/G_CCTV-2-HD.m3u8
-#EXTINF:-1 ,Unknown_4
-http://39.130.206.213:6410/gitv_live/CCTV-3/CCTV-3.m3u8
-#EXTINF:-1 ,Unknown_5
+#EXTINF:-1 tvg-id="3" tvg-name="CCTV3" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV3.png" group-title="CCTV-HD",CCTV-3 HD
+http://39.130.206.213:6410/gitv_live/G_CCTV-3-HD/G_CCTV-3-HD.m3u8
+#EXTINF:-1 tvg-id="4" tvg-name="CCTV4" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4.png" group-title="CCTV-HD",CCTV-4 HD
 http://39.130.206.213:6410/gitv_live/G_CCTV-4-HD/G_CCTV-4-HD.m3u8
-#EXTINF:-1 ,Unknown_6
+#EXTINF:-1 tvg-id="5" tvg-name="cctv5" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5.png" group-title="CCTV-HD",CCTV-5 HD
 http://39.130.206.213:6410/gitv_live/CCTV-5/CCTV-5.m3u8
-#EXTINF:-1 ,Unknown_7
-http://39.130.206.213:6410/gitv_live/CCTV-6/CCTV-6.m3u8
-#EXTINF:-1 ,Unknown_8
-http://39.130.206.213:6410/gitv_live/G_CCTV-7-HD/G_CCTV-7-HD.m3u8
-#EXTINF:-1 ,Unknown_9
-http://39.130.206.213:6410/gitv_live/G_CCTV-8/G_CCTV-8.m3u8
-#EXTINF:-1 ,Unknown_10
-http://39.130.206.213:6410/gitv_live/G_CCTV-9-HD/G_CCTV-9-HD.m3u8
-#EXTINF:-1 ,Unknown_11
-http://39.130.206.213:6410/gitv_live/G_CCTV-10-HD/G_CCTV-10-HD.m3u8
-#EXTINF:-1 ,Unknown_12
-http://39.130.206.213:6410/gitv_live/G_CCTV-12-HD/G_CCTV-12-HD.m3u8
-#EXTINF:-1 ,Unknown_13
-http://39.130.206.213:6410/gitv_live/G_CCTV-14-HD/G_CCTV-14-HD.m3u8
-#EXTINF:-1 ,Unknown_14
-http://39.130.206.213:6410/gitv_live/G_CCTV-17-HD/G_CCTV-17-HD.m3u8
-#EXTINF:-1 ,Unknown_15
+#EXTINF:-1 tvg-id="6" tvg-name="CCTV5+" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5+.png" group-title="CCTV-HD",CCTV-5+ HD
 http://39.130.206.213:6410/gitv_live/G_CCTV-5PLUS/G_CCTV-5PLUS.m3u8
-#EXTINF:-1 ,Unknown_16
+#EXTINF:-1 tvg-id="7" tvg-name="CCTV6" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV6.png" group-title="CCTV-HD",CCTV-6 HD
+http://39.130.206.213:6410/gitv_live/CCTV-6/CCTV-6.m3u8
+#EXTINF:-1 tvg-id="8" tvg-name="CCTV7" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV7.png" group-title="CCTV-HD",CCTV-7 HD
+http://39.130.206.213:6410/gitv_live/G_CCTV-7-HD/G_CCTV-7-HD.m3u8
+#EXTINF:-1 tvg-id="9" tvg-name="CCTV8" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV8.png" group-title="CCTV-HD",CCTV-8 HD
+http://39.130.206.213:6410/gitv_live/G_CCTV-8/G_CCTV-8.m3u8
+#EXTINF:-1 tvg-id="10" tvg-name="CCTV9" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV9.png" group-title="CCTV-HD",CCTV-9 HD
+http://39.130.206.213:6410/gitv_live/G_CCTV-9-HD/G_CCTV-9-HD.m3u8
+#EXTINF:-1 tvg-id="11" tvg-name="CCTV10" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV10.png" group-title="CCTV-HD",CCTV-10 HD
+http://39.130.206.213:6410/gitv_live/G_CCTV-10-HD/G_CCTV-10-HD.m3u8
+#EXTINF:-1 tvg-id="12" tvg-name="CCTV11" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV11.png" group-title="CCTV-HD",CCTV-11 HD
+http://39.130.206.213:6410/gitv_live/G_CCTV-11-HD/G_CCTV-11-HD.m3u8
+#EXTINF:-1 tvg-id="13" tvg-name="CCTV12" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV12.png" group-title="CCTV-HD",CCTV-12 HD
+http://39.130.206.213:6410/gitv_live/G_CCTV-12-HD/G_CCTV-12-HD.m3u8
+#EXTINF:-1 tvg-id="14" tvg-name="CCTV13" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV13.png" group-title="CCTV-HD",CCTV-13 HD
+http://39.130.206.213:6410/gitv_live/G_CCTV-13-HD/G_CCTV-13-HD.m3u8
+#EXTINF:-1 tvg-id="15" tvg-name="CCTV14" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV14.png" group-title="CCTV-HD",CCTV-14 HD
+http://39.130.206.213:6410/gitv_live/G_CCTV-14-HD/G_CCTV-14-HD.m3u8
+#EXTINF:-1 tvg-id="16" tvg-name="CCTV15" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV15.png" group-title="CCTV-HD",CCTV-15 HD
+http://39.130.206.213:6410/gitv_live/G_CCTV-15-HD/G_CCTV-15-HD.m3u8
+#EXTINF:-1 tvg-id="17" tvg-name="CCTV16" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV16.png" group-title="CCTV-HD",CCTV-16 HD
+http://39.130.206.213:6410/gitv_live/G_CCTV-16-HD/G_CCTV-16-HD.m3u8
+#EXTINF:-1 tvg-id="18" tvg-name="CCTV17" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV17.png" group-title="CCTV-HD",CCTV-17 HD
+http://39.130.206.213:6410/gitv_live/G_CCTV-17-HD/G_CCTV-17-HD.m3u8
+#EXTINF:-1 tvg-id="19" tvg-name="CCTV7" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV7.png" group-title="CCTV-HD",CCTV-国防军事 HD
+http://39.130.206.213:6410/gitv_live/G_CGTVJS-HD/G_CGTVJS-HD.m3u8
+#EXTINF:-1 tvg-id="20" tvg-name="CGTN" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/cgtn.png" group-title="CCTV-HD",CGTN 纪录 HD
 http://39.130.206.213:6410/gitv_live/G_CGTVJL-HD/G_CGTVJL-HD.m3u8
-#EXTINF:-1 ,Unknown_17
-http://39.130.206.213:6410/gitv_live/G_CETV-1-HD/G_CETV-1-HD.m3u8
-#EXTINF:-1 ,Unknown_18
-http://39.130.206.213:6410/gitv_live/G_BEIJINGJS-HD/G_BEIJINGJS-HD.m3u8
-#EXTINF:-1 ,Unknown_19
-http://39.130.206.213:6410/gitv_live/G_SHANGHAIJS-HD/G_SHANGHAIJS-HD.m3u8
-#EXTINF:-1 ,Unknown_20
-http://39.130.206.213:6410/gitv_live/G_JINYINGJS-HD/G_JINYINGJS-HD.m3u8
-#EXTINF:-1 ,Unknown_21
-http://39.130.206.213:6410/gitv_live/G_DONGNAN-HD/G_DONGNAN-HD.m3u8
-#EXTINF:-1 ,Unknown_22
-http://39.130.206.213:6410/gitv_live/DFWS-HD/DFWS-HD.m3u8
-#EXTINF:-1 ,Unknown_23
+#EXTINF:-1 tvg-id="21" tvg-name="北京卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/beijing.png" group-title="LocalTVHD",北京卫视 HD
 http://39.130.206.213:6410/gitv_live/BTV-1/BTV-1.m3u8
-#EXTINF:-1 ,Unknown_24
-http://39.130.206.213:6410/gitv_live/G_JILIN-HQ/G_JILIN-HQ.m3u8
-#EXTINF:-1 ,Unknown_25
-http://39.130.206.213:6410/gitv_live/G_SICHUAN-HD/G_SICHUAN-HD.m3u8
-#EXTINF:-1 ,Unknown_26
-http://39.130.206.213:6410/gitv_live/G_TIANJIN-HD/G_TIANJIN-HD.m3u8
-#EXTINF:-1 ,Unknown_27
-http://39.130.206.213:6410/gitv_live/G_ANHUI-HD/G_ANHUI-HD.m3u8
-#EXTINF:-1 ,Unknown_28
-http://39.130.206.213:6410/gitv_live/G_SHANDONG-HD/G_SHANDONG-HD.m3u8
-#EXTINF:-1 ,Unknown_29
-http://39.130.206.213:6410/gitv_live/G_JIANGSU-HD/G_JIANGSU-HD.m3u8
-#EXTINF:-1 ,Unknown_30
-http://39.130.206.213:6410/gitv_live/G_JIANGXI-HD/G_JIANGXI-HD.m3u8
-#EXTINF:-1 ,Unknown_31
-http://39.130.206.213:6410/gitv_live/G_HEBEI-HQ/G_HEBEI-HQ.m3u8
-#EXTINF:-1 ,Unknown_32
-http://39.130.206.213:6410/gitv_live/G_HENAN-HQ/G_HENAN-HQ.m3u8
-#EXTINF:-1 ,Unknown_33
-http://39.130.206.213:6410/gitv_live/ZJWS-HD/ZJWS-HD.m3u8
-#EXTINF:-1 ,Unknown_34
-http://39.130.206.213:6410/gitv_live/SZWS-HD/SZWS-HD.m3u8
-#EXTINF:-1 ,Unknown_35
-http://39.130.206.213:6410/gitv_live/G_HUBEI-HD/G_HUBEI-HD.m3u8
-#EXTINF:-1 ,Unknown_36
+#EXTINF:-1 tvg-id="22" tvg-name="北京纪实" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/beijingjishi.png" group-title="LocalTVHD",北京纪实 HD
+http://39.130.206.213:6410/gitv_live/G_BEIJINGJS-HD/G_BEIJINGJS-HD.m3u8
+#EXTINF:-1 tvg-id="23" tvg-name="湖南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hunan.png" group-title="LocalTVHD",湖南卫视 HD
 http://39.130.206.213:6410/gitv_live/HNWS-HD/HNWS-HD.m3u8
-#EXTINF:-1 ,Unknown_37
-http://39.130.206.213:6410/gitv_live/G_GUIZHOU-HD/G_GUIZHOU-HD.m3u8
-#EXTINF:-1 ,Unknown_38
-http://39.130.206.213:6410/gitv_live/G_CHONGQING-HD/G_CHONGQING-HD.m3u8
-#EXTINF:-1 ,Unknown_39
+#EXTINF:-1 tvg-id="24" tvg-name="江苏卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jiangsu.png" group-title="LocalTVHD",江苏卫视 HD
+http://39.130.206.213:6410/gitv_live/G_JIANGSU-HD/G_JIANGSU-HD.m3u8
+#EXTINF:-1 tvg-id="25" tvg-name="浙江卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/zhejiang.png" group-title="LocalTVHD",浙江卫视 HD
+http://hw-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8
+#EXTINF:-1 tvg-id="26" tvg-name="东方卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/dongfang.png" group-title="LocalTVHD",东方卫视 HD
+http://39.130.206.213:6410/gitv_live/DFWS-HD/DFWS-HD.m3u8
+#EXTINF:-1 tvg-id="27" tvg-name="安徽卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/anhui.png" group-title="LocalTVHD",安徽卫视 HD
+http://39.130.206.213:6410/gitv_live/G_ANHUI-HD/G_ANHUI-HD.m3u8
+#EXTINF:-1 tvg-id="28" tvg-name="黑龙江卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/heilongjiang.png" group-title="LocalTVHD",黑龙江卫视 HD
 http://39.130.206.213:6410/gitv_live/G_HEILONGJIANG-HD/G_HEILONGJIANG-HD.m3u8
-#EXTINF:-1 ,Unknown_40
+#EXTINF:-1 tvg-id="29" tvg-name="辽宁卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/liaoning.png" group-title="LocalTVHD",辽宁卫视 HD
+http://39.130.206.213:6410/gitv_live/G_LIAONING-HD/G_LIAONING-HD.m3u8
+#EXTINF:-1 tvg-id="30" tvg-name="深圳卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shenzhen.png" group-title="LocalTVHD",深圳卫视 HD
+http://39.130.206.213:6410/gitv_live/SZWS-HD/SZWS-HD.m3u8
+#EXTINF:-1 tvg-id="31" tvg-name="广东卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/guangdong.png" group-title="LocalTVHD",广东卫视 HD
+http://39.130.206.213:6410/gitv_live/G_GUANGDONG-HD/G_GUANGDONG-HD.m3u8
+#EXTINF:-1 tvg-id="32" tvg-name="天津卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/tianjin.png" group-title="LocalTVHD",天津卫视 HD
+http://39.130.206.213:6410/gitv_live/G_TIANJIN-HD/G_TIANJIN-HD.m3u8
+#EXTINF:-1 tvg-id="33" tvg-name="湖北卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hubei.png" group-title="LocalTVHD",湖北卫视 HD
+http://39.130.206.213:6410/gitv_live/G_HUBEI-HD/G_HUBEI-HD.m3u8
+#EXTINF:-1 tvg-id="34" tvg-name="山东卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shandong.png" group-title="LocalTVHD",山东卫视 HD
+http://39.130.206.213:6410/gitv_live/G_SHANDONG-HD/G_SHANDONG-HD.m3u8
+#EXTINF:-1 tvg-id="35" tvg-name="重庆卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/chongqing.png" group-title="LocalTVHD",重庆卫视 HD
+http://39.130.206.213:6410/gitv_live/G_CHONGQING-HD/G_CHONGQING-HD.m3u8
+#EXTINF:-1 tvg-id="36" tvg-name="河北卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hebei.png" group-title="LocalTVHD",河北卫视 HD
+http://39.130.206.213:6410/gitv_live/G_HEBEI-HQ/G_HEBEI-HQ.m3u8
+#EXTINF:-1 tvg-id="37" tvg-name="四川卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/sichuan.png" group-title="LocalTVHD",四川卫视 HD
+http://39.130.206.213:6410/gitv_live/G_SICHUAN-HD/G_SICHUAN-HD.m3u8
+#EXTINF:-1 tvg-id="38" tvg-name="江西卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jiangxi.png" group-title="LocalTVHD",江西卫视 HD
+http://39.130.206.213:6410/gitv_live/G_JIANGXI-HD/G_JIANGXI-HD.m3u8
+#EXTINF:-1 tvg-id="39" tvg-name="东南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/dongnan.png" group-title="LocalTVHD",东南卫视 HD
+http://39.130.206.213:6410/gitv_live/G_DONGNAN-HD/G_DONGNAN-HD.m3u8
+#EXTINF:-1 tvg-id="40" tvg-name="海南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hainan.png" group-title="LocalTVHD", 海南卫视 HD
+http://39.130.206.213:6410/gitv_live/G_HAINAN-HD/G_HAINAN-HD.m3u8
+#EXTINF:-1 tvg-id="41" tvg-name="上海纪实" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shanghaijishi.png" group-title="LocalTVHD",上海纪实 HD
+http://39.130.206.213:6410/gitv_live/G_SHANGHAIJS-HD/G_SHANGHAIJS-HD.m3u8
+#EXTINF:-1 tvg-id="42" tvg-name="湖南金鹰" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jinying.png" group-title="LocalTVHD",湖南金鹰 HD
+http://39.130.206.213:6410/gitv_live/G_JINYINGJS-HD/G_JINYINGJS-HD.m3u8
+#EXTINF:-1 tvg-id="43" tvg-name="吉林卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jilin.png" group-title="LocalTVHD",吉林卫视 HD
+http://39.130.206.213:6410/gitv_live/G_JILIN-HQ/G_JILIN-HQ.m3u8
+#EXTINF:-1 tvg-id="44" tvg-name="河南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/henan.png" group-title="LocalTVHD",河南卫视 HD
+http://39.130.206.213:6410/gitv_live/G_HENAN-HQ/G_HENAN-HQ.m3u8
+#EXTINF:-1 tvg-id="45" tvg-name="贵州卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/guizhou.png" group-title="LocalTVHD",贵州卫视 HD
+http://39.130.206.213:6410/gitv_live/G_GUIZHOU-HD/G_GUIZHOU-HD.m3u8
+#EXTINF:-1 tvg-id="46" tvg-name="云南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/yunnan.png" group-title="LocalTVHD",云南卫视 HD
 http://39.130.206.213:6410/gitv_live/G_YUNNAN-HD/G_YUNNAN-HD.m3u8
