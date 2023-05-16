@@ -1,0 +1,81 @@
+#EXTM3U
+#EXTINF:-1 ,Unknown_1
+http://39.130.206.213:6410/gitv_live/CCTV-1-HD/CCTV-1-HD.m3u8
+#EXTINF:-1 ,Unknown_2
+http://39.130.206.213:6410/gitv_live/G_CCTV-1-CQ/G_CCTV-1-CQ.m3u8
+#EXTINF:-1 ,Unknown_3
+http://39.130.206.213:6410/gitv_live/G_CCTV-2-HD/G_CCTV-2-HD.m3u8
+#EXTINF:-1 ,Unknown_4
+http://39.130.206.213:6410/gitv_live/CCTV-3/CCTV-3.m3u8
+#EXTINF:-1 ,Unknown_5
+http://39.130.206.213:6410/gitv_live/G_CCTV-4-HD/G_CCTV-4-HD.m3u8
+#EXTINF:-1 ,Unknown_6
+http://39.130.206.213:6410/gitv_live/CCTV-5/CCTV-5.m3u8
+#EXTINF:-1 ,Unknown_7
+http://39.130.206.213:6410/gitv_live/CCTV-6/CCTV-6.m3u8
+#EXTINF:-1 ,Unknown_8
+http://39.130.206.213:6410/gitv_live/G_CCTV-7-HD/G_CCTV-7-HD.m3u8
+#EXTINF:-1 ,Unknown_9
+http://39.130.206.213:6410/gitv_live/G_CCTV-8/G_CCTV-8.m3u8
+#EXTINF:-1 ,Unknown_10
+http://39.130.206.213:6410/gitv_live/G_CCTV-9-HD/G_CCTV-9-HD.m3u8
+#EXTINF:-1 ,Unknown_11
+http://39.130.206.213:6410/gitv_live/G_CCTV-10-HD/G_CCTV-10-HD.m3u8
+#EXTINF:-1 ,Unknown_12
+http://39.130.206.213:6410/gitv_live/G_CCTV-12-HD/G_CCTV-12-HD.m3u8
+#EXTINF:-1 ,Unknown_13
+http://39.130.206.213:6410/gitv_live/G_CCTV-14-HD/G_CCTV-14-HD.m3u8
+#EXTINF:-1 ,Unknown_14
+http://39.130.206.213:6410/gitv_live/G_CCTV-17-HD/G_CCTV-17-HD.m3u8
+#EXTINF:-1 ,Unknown_15
+http://39.130.206.213:6410/gitv_live/G_CCTV-5PLUS/G_CCTV-5PLUS.m3u8
+#EXTINF:-1 ,Unknown_16
+http://39.130.206.213:6410/gitv_live/G_CGTVJL-HD/G_CGTVJL-HD.m3u8
+#EXTINF:-1 ,Unknown_17
+http://39.130.206.213:6410/gitv_live/G_CETV-1-HD/G_CETV-1-HD.m3u8
+#EXTINF:-1 ,Unknown_18
+http://39.130.206.213:6410/gitv_live/G_BEIJINGJS-HD/G_BEIJINGJS-HD.m3u8
+#EXTINF:-1 ,Unknown_19
+http://39.130.206.213:6410/gitv_live/G_SHANGHAIJS-HD/G_SHANGHAIJS-HD.m3u8
+#EXTINF:-1 ,Unknown_20
+http://39.130.206.213:6410/gitv_live/G_JINYINGJS-HD/G_JINYINGJS-HD.m3u8
+#EXTINF:-1 ,Unknown_21
+http://39.130.206.213:6410/gitv_live/G_DONGNAN-HD/G_DONGNAN-HD.m3u8
+#EXTINF:-1 ,Unknown_22
+http://39.130.206.213:6410/gitv_live/DFWS-HD/DFWS-HD.m3u8
+#EXTINF:-1 ,Unknown_23
+http://39.130.206.213:6410/gitv_live/BTV-1/BTV-1.m3u8
+#EXTINF:-1 ,Unknown_24
+http://39.130.206.213:6410/gitv_live/G_JILIN-HQ/G_JILIN-HQ.m3u8
+#EXTINF:-1 ,Unknown_25
+http://39.130.206.213:6410/gitv_live/G_SICHUAN-HD/G_SICHUAN-HD.m3u8
+#EXTINF:-1 ,Unknown_26
+http://39.130.206.213:6410/gitv_live/G_TIANJIN-HD/G_TIANJIN-HD.m3u8
+#EXTINF:-1 ,Unknown_27
+http://39.130.206.213:6410/gitv_live/G_ANHUI-HD/G_ANHUI-HD.m3u8
+#EXTINF:-1 ,Unknown_28
+http://39.130.206.213:6410/gitv_live/G_SHANDONG-HD/G_SHANDONG-HD.m3u8
+#EXTINF:-1 ,Unknown_29
+http://39.130.206.213:6410/gitv_live/G_JIANGSU-HD/G_JIANGSU-HD.m3u8
+#EXTINF:-1 ,Unknown_30
+http://39.130.206.213:6410/gitv_live/G_JIANGXI-HD/G_JIANGXI-HD.m3u8
+#EXTINF:-1 ,Unknown_31
+http://39.130.206.213:6410/gitv_live/G_HEBEI-HQ/G_HEBEI-HQ.m3u8
+#EXTINF:-1 ,Unknown_32
+http://39.130.206.213:6410/gitv_live/G_HENAN-HQ/G_HENAN-HQ.m3u8
+#EXTINF:-1 ,Unknown_33
+http://39.130.206.213:6410/gitv_live/ZJWS-HD/ZJWS-HD.m3u8
+#EXTINF:-1 ,Unknown_34
+http://39.130.206.213:6410/gitv_live/SZWS-HD/SZWS-HD.m3u8
+#EXTINF:-1 ,Unknown_35
+http://39.130.206.213:6410/gitv_live/G_HUBEI-HD/G_HUBEI-HD.m3u8
+#EXTINF:-1 ,Unknown_36
+http://39.130.206.213:6410/gitv_live/HNWS-HD/HNWS-HD.m3u8
+#EXTINF:-1 ,Unknown_37
+http://39.130.206.213:6410/gitv_live/G_GUIZHOU-HD/G_GUIZHOU-HD.m3u8
+#EXTINF:-1 ,Unknown_38
+http://39.130.206.213:6410/gitv_live/G_CHONGQING-HD/G_CHONGQING-HD.m3u8
+#EXTINF:-1 ,Unknown_39
+http://39.130.206.213:6410/gitv_live/G_HEILONGJIANG-HD/G_HEILONGJIANG-HD.m3u8
+#EXTINF:-1 ,Unknown_40
+http://39.130.206.213:6410/gitv_live/G_YUNNAN-HD/G_YUNNAN-HD.m3u8
