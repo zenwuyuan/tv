@@ -4,7 +4,7 @@ http://39.130.206.213:6410/gitv_live/CCTV-1-HD/CCTV-1-HD.m3u8
 #EXTINF:-1 tvg-id="2" tvg-name="CCTV2" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV2.png" group-title="CCTV-HD",CCTV-2 HD
 http://39.130.206.213:6410/gitv_live/G_CCTV-2-HD/G_CCTV-2-HD.m3u8
 #EXTINF:-1 tvg-id="3" tvg-name="CCTV3" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV3.png" group-title="CCTV-HD",CCTV-3 HD
-http://39.130.206.213:6410/gitv_live/G_CCTV-3-HD/G_CCTV-3-HD.m3u8
+http://39.130.206.213:6410/gitv_live/CCTV-3/CCTV-3.m3u8
 #EXTINF:-1 tvg-id="4" tvg-name="CCTV4" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4.png" group-title="CCTV-HD",CCTV-4 HD
 http://39.130.206.213:6410/gitv_live/G_CCTV-4-HD/G_CCTV-4-HD.m3u8
 #EXTINF:-1 tvg-id="5" tvg-name="cctv5" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5.png" group-title="CCTV-HD",CCTV-5 HD
