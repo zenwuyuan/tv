@@ -32,7 +32,7 @@ http://39.130.206.213:6410/gitv_live/G_CCTV-14-HD/G_CCTV-14-HD.m3u8
 #EXTINF:-1 tvg-id="16" tvg-name="CCTV15" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV15.png" group-title="CCTV-HD",CCTV-15 HD
 http://39.130.206.213:6410/gitv_live/G_CCTV-15/G_CCTV-15.m3u8
 #EXTINF:-1 tvg-id="17" tvg-name="CCTV16" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV16.png" group-title="CCTV-HD",CCTV-16 HD
-http://39.130.206.213:6410/gitv_live/G_CGTVJS-HD/G_CGTVALPK-HD.m3u8
+http://39.130.206.213:6410/gitv_live/G_CGTVALPK-HD/G_CGTVALPK-HD.m3u8
 #EXTINF:-1 tvg-id="18" tvg-name="CCTV17" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV17.png" group-title="CCTV-HD",CCTV-17 HD
 http://39.130.206.213:6410/gitv_live/G_CCTV-17-HD/G_CCTV-17-HD.m3u8
 #EXTINF:-1 tvg-id="20" tvg-name="CGTN" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/cgtn.png" group-title="CCTV-HD",CGTN 纪录 HD
