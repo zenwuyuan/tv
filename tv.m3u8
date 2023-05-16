@@ -78,7 +78,7 @@ http://39.130.206.213:6410/gitv_live/G_JIANGXI-HD/G_JIANGXI-HD.m3u8
 #EXTINF:-1 tvg-id="39" tvg-name="东南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/dongnan.png" group-title="LocalTVHD",东南卫视 HD
 http://39.130.206.213:6410/gitv_live/G_DONGNAN-HD/G_DONGNAN-HD.m3u8
 #EXTINF:-1 tvg-id="40" tvg-name="海南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hainan.png" group-title="LocalTVHD", 海南卫视 HD
-http://39.130.206.213:6410/gitv_live/HNWS-HD/HNWS-HD.m3u8
+http://39.130.206.213:6410/gitv_live/LYWS/LYWS.m3u8
 #EXTINF:-1 tvg-id="41" tvg-name="上海纪实" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shanghaijishi.png" group-title="LocalTVHD",上海纪实 HD
 http://39.130.206.213:6410/gitv_live/G_SHANGHAIJS-HD/G_SHANGHAIJS-HD.m3u8
 #EXTINF:-1 tvg-id="42" tvg-name="湖南金鹰" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jinying.png" group-title="LocalTVHD",湖南金鹰 HD
