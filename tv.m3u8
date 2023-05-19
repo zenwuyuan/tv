@@ -44,7 +44,7 @@ http://39.130.206.213:6410/gitv_live/HNWS-HD/HNWS-HD.m3u8
 #EXTINF:-1 tvg-id="24" tvg-name="江苏卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jiangsu.png" group-title="LocalTVHD",江苏卫视 HD
 http://39.130.206.213:6410/gitv_live/G_JIANGSU-HD/G_JIANGSU-HD.m3u8
 #EXTINF:-1 tvg-id="25" tvg-name="浙江卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/zhejiang.png" group-title="LocalTVHD",浙江卫视 HD
-http://hw-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8
+http://39.130.206.213:6410/gitv_live/ZJWS-HD/ZJWS-HD.m3u8
 #EXTINF:-1 tvg-id="26" tvg-name="东方卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/dongfang.png" group-title="LocalTVHD",东方卫视 HD
 http://39.130.206.213:6410/gitv_live/DFWS-HD/DFWS-HD.m3u8
 #EXTINF:-1 tvg-id="27" tvg-name="安徽卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/anhui.png" group-title="LocalTVHD",安徽卫视 HD
