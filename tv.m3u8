@@ -26,7 +26,7 @@ http://39.130.206.213:6410/gitv_live/CCTV-11/CCTV-11.m3u8
 #EXTINF:-1 tvg-id="13" tvg-name="CCTV12" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV12.png" group-title="CCTV-HD",CCTV-12 HD
 http://39.130.206.213:6410/gitv_live/G_CCTV-12-HD/G_CCTV-12-HD.m3u8
 #EXTINF:-1 tvg-id="14" tvg-name="CCTV13" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV13.png" group-title="CCTV-HD",CCTV-13 HD
-http://39.130.206.213:6410/gitv_live/CCTV-13/CCTV-13.m3u8
+https://live-play.cctvnews.cctv.com/cctv/merge_cctv13_mud.m3u8
 #EXTINF:-1 tvg-id="15" tvg-name="CCTV14" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV14.png" group-title="CCTV-HD",CCTV-14 HD
 http://39.130.206.213:6410/gitv_live/G_CCTV-14-HD/G_CCTV-14-HD.m3u8
 #EXTINF:-1 tvg-id="16" tvg-name="CCTV15" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV15.png" group-title="CCTV-HD",CCTV-15 HD
